@@ -1,0 +1,18 @@
+The most common errors are:
+1. Typos: You accidentally misspelled a variable or a function name which the computer doesn't understand. 
+2. Incorrect Use of function: You used a function in a way it wasn't intended to be used.
+3. Using variables outside their scope: If you are using variables outside their scope, the computer wouldn't know the value of these 
+variables
+
+There are a few techniques which will help you identify what is causing the bug or which section of your code is leading to this bug.
+ 1. Commenting sections of your code: You can comment certain sections of your code to simplify your code and check if your code still throws errors. In this way you can narrow down to the part of the code which is causing this error. Student listens and asks questions. © 2018 - WhiteHat Education Technology Private Limited. Note: This document is the original copyright of WhiteHat Education Technology Private Limited. Please don't share, download or copy this file without permission. 5
+ 2.Printing values of variables in the console: You can print the values of critical variables in the console to visually see how they are changing in the code. If they are not changing as you intend them to, there is something unexpected happening. You can manipulate the variable values to identify what is happening.
+ 3. Print messages in your code: You can print messages in your code to visually 
+
+
+1.logs are duplicating whie the page loads
+2.Automatically  red bird is thrown
+3.red bird is passing inside  the logs
+4.red bird sometimes be invisble
+5.once bird is thrown from the sling , system should not  allow to move the bird
+6.bird is going under grounnd
